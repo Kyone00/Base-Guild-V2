@@ -1,4 +1,6 @@
 # Base-Guild-V2
-git commit -m "keep building"
-88644081+Kyone00@users.noreply.github.com
+git branch -m base cmd
+git fetch origin
+git branch -u origin/cmd cmd
+git remote set-head origin -a
 
