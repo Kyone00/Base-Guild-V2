@@ -1,0 +1,17 @@
+gh repo clone Kyone00/Base-Guild-V2
+# 1. Navigate to your project directory
+cd your-project-folder
+
+# 2. Check the status of your files
+git status
+
+# 3. Add files you want to commit
+git add .  # Adds all changed files
+# OR
+git add specific-file.txt  # Adds a specific file
+
+# 4. Create a commit with a message
+git commit -m "Add your descriptive commit message here"
+
+# 5. Push the commit to GitHub
+git push origin main  # Replace 'cmd-base' with your branch name if different
